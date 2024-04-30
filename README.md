@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @patooz
-- 👀 I’m interested in php, python, javascript, html,css,etc
-- 🌱 I’m currently working on web applications
-- 📫 How to reach me pat.koech01@gmail.com
+Hi there!🙌 
 
-<!---
-patooz/patooz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a web developer and freelancer with a passion for creating awesome websites and web applications. 
+
+In my free time, I stay up-to-date with the latest tech trends and continue to grow my skillset📚. I'm always looking for new opportunities to help others learn and thrive in the world of web development🚀. 
+
+Let's code together and have some fun!😄
